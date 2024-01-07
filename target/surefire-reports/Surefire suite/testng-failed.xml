@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Surefire suite]" verbose="0">
+  <test thread-count="5" name="Surefire test(failed)" verbose="0">
+    <classes>
+      <class name="pagesTest.VaccinationTest">
+        <methods>
+          <include name="initialTest"/>
+          <include name="tearUp"/>
+          <include name="afterEachTest"/>
+          <include name="publishReport"/>
+          <include name="initialReporting"/>
+          <include name="beforeClassSetUp"/>
+          <include name="setUP"/>
+          <include name="useOfVaccination"/>
+        </methods>
+      </class> <!-- pagesTest.VaccinationTest -->
+      <class name="pagesTest.HomePageTest">
+        <methods>
+          <include name="initialTest"/>
+          <include name="tearUp"/>
+          <include name="afterEachTest"/>
+          <include name="useOfEmailAndPasswordMethod"/>
+          <include name="publishReport"/>
+          <include name="initialReporting"/>
+          <include name="beforeClassSetUp"/>
+          <include name="setUP"/>
+        </methods>
+      </class> <!-- pagesTest.HomePageTest -->
+      <class name="pagesTest.NewUserRegistrationTest">
+        <methods>
+          <include name="initialTest"/>
+          <include name="tearUp"/>
+          <include name="newUserRegistrationTest"/>
+          <include name="afterEachTest"/>
+          <include name="publishReport"/>
+          <include name="initialReporting"/>
+          <include name="beforeClassSetUp"/>
+          <include name="setUP"/>
+        </methods>
+      </class> <!-- pagesTest.NewUserRegistrationTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

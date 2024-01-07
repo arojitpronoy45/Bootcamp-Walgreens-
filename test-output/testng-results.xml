@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Proxy element for: DefaultElementLocator 'By.xpath: //li[@id='at-hp-rp-covid-li-1']/a/div'<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 2<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@id='userDob']]<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 3<br>]]>
+    </line>
+    <line>
+      <![CDATA[08022001 <-----> has been put into <-----> [[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@id='userDob']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 2<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@id='field-email']]<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 2<br>]]>
+    </line>
+    <line>
+      <![CDATA[arojitpronoy@gmail.com <-----> has been put into <-----> [[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@id='field-email']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 2<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@name='userPhone']]<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 2<br>]]>
+    </line>
+    <line>
+      <![CDATA[9175957072 <-----> has been put into <-----> [[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@name='userPhone']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 2<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> name: cdcguestcheck]<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> name: cdcguestcheck]<---------> is Enable<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 2<br>]]>
+    </line>
+    <line>
+      <![CDATA[Proxy element for: DefaultElementLocator 'By.xpath: //span[@id='nextBtn']'<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 3<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@id='check-1']]<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@id='check-1']]<---------> is Enable<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 3<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //span[@class='next-btn btn btn__blue']]<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 3<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@id='check-207']]<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 3<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> id: cancel-btn]<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 3<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //a[@id='0']]<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 3<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //*[@id='wag-store-info-0']/div/div/div[7]/section/section/section/a[7]/span]<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 3<br>]]>
+    </line>
+    <line>
+      <![CDATA[Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='confirmDoseTimeslots btn btn__blue']'<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 2<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@name='userFirstname']]<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 2<br>]]>
+    </line>
+    <line>
+      <![CDATA[Arojit <-----> has been put into <-----> [[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@name='userFirstname']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 3<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@name='userLastname']]<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 2<br>]]>
+    </line>
+    <line>
+      <![CDATA[Pronoy <-----> has been put into <-----> [[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@name='userLastname']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 3<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //option[@value='Male']]<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 3<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //select[@id="race-dropdown"]]<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 3<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //select[@id="race-dropdown"]/option[4]]<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 3<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //select[@id="ethnicity-dropdown"]]<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 3<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //select[@id="ethnicity-dropdown"]/option[4]]<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 3<br>]]>
+    </line>
+    <line>
+      <![CDATA[Proxy element for: DefaultElementLocator 'By.xpath: //button[@id="nextButton-cdcInfoGuest"]'<---------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 3<br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-05T21:24:29 EST" name="Suite" finished-at="2024-01-05T21:27:03 EST" duration-ms="154303">
+    <groups>
+    </groups>
+    <test started-at="2024-01-05T21:24:29 EST" name="Test" finished-at="2024-01-05T21:27:03 EST" duration-ms="154303">
+      <class name="pagesTest.VaccinationTest">
+        <test-method is-config="true" signature="initialReporting()[pri:0, instance:pagesTest.VaccinationTest@34e9fd99]" started-at="2024-01-05T21:24:29 EST" name="initialReporting" finished-at="2024-01-05T21:24:29 EST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialReporting -->
+        <test-method is-config="true" signature="beforeClassSetUp()[pri:0, instance:pagesTest.VaccinationTest@34e9fd99]" started-at="2024-01-05T21:24:29 EST" name="beforeClassSetUp" finished-at="2024-01-05T21:24:29 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassSetUp -->
+        <test-method is-config="true" signature="initialTest(java.lang.reflect.Method)[pri:0, instance:pagesTest.VaccinationTest@34e9fd99]" started-at="2024-01-05T21:24:29 EST" name="initialTest" finished-at="2024-01-05T21:24:29 EST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void pagesTest.VaccinationTest.useOfVaccination()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialTest -->
+        <test-method is-config="true" signature="setUP(java.lang.String)[pri:0, instance:pagesTest.VaccinationTest@34e9fd99]" started-at="2024-01-05T21:24:29 EST" name="setUP" finished-at="2024-01-05T21:24:32 EST" duration-ms="3572" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="useOfVaccination()[pri:0, instance:pagesTest.VaccinationTest@34e9fd99]" started-at="2024-01-05T21:24:32 EST" name="useOfVaccination" finished-at="2024-01-05T21:27:03 EST" duration-ms="150618" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Proxy element for: DefaultElementLocator 'By.xpath: //li[@id='at-hp-rp-covid-li-1']/a/div'<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 2<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@id='userDob']]<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 3<br>]]>
+            </line>
+            <line>
+              <![CDATA[08022001 <-----> has been put into <-----> [[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@id='userDob']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 2<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@id='field-email']]<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 2<br>]]>
+            </line>
+            <line>
+              <![CDATA[arojitpronoy@gmail.com <-----> has been put into <-----> [[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@id='field-email']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 2<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@name='userPhone']]<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 2<br>]]>
+            </line>
+            <line>
+              <![CDATA[9175957072 <-----> has been put into <-----> [[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@name='userPhone']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 2<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> name: cdcguestcheck]<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> name: cdcguestcheck]<---------> is Enable<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 2<br>]]>
+            </line>
+            <line>
+              <![CDATA[Proxy element for: DefaultElementLocator 'By.xpath: //span[@id='nextBtn']'<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 3<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@id='check-1']]<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@id='check-1']]<---------> is Enable<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 3<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //span[@class='next-btn btn btn__blue']]<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 3<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@id='check-207']]<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 3<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> id: cancel-btn]<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 3<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //a[@id='0']]<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 3<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //*[@id='wag-store-info-0']/div/div/div[7]/section/section/section/a[7]/span]<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 3<br>]]>
+            </line>
+            <line>
+              <![CDATA[Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='confirmDoseTimeslots btn btn__blue']'<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 2<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@name='userFirstname']]<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 2<br>]]>
+            </line>
+            <line>
+              <![CDATA[Arojit <-----> has been put into <-----> [[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@name='userFirstname']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 3<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@name='userLastname']]<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 2<br>]]>
+            </line>
+            <line>
+              <![CDATA[Pronoy <-----> has been put into <-----> [[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //input[@name='userLastname']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 3<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //option[@value='Male']]<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 3<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //select[@id="race-dropdown"]]<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 3<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //select[@id="race-dropdown"]/option[4]]<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 3<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //select[@id="ethnicity-dropdown"]]<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 3<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (46052ed7ed6187679c4067564d123ab1)] -> xpath: //select[@id="ethnicity-dropdown"]/option[4]]<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 3<br>]]>
+            </line>
+            <line>
+              <![CDATA[Proxy element for: DefaultElementLocator 'By.xpath: //button[@id="nextButton-cdcInfoGuest"]'<---------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 3<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- useOfVaccination -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:pagesTest.VaccinationTest@34e9fd99]" started-at="2024-01-05T21:27:03 EST" name="tearUp" finished-at="2024-01-05T21:27:03 EST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method is-config="true" signature="afterEachTest(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:pagesTest.VaccinationTest@34e9fd99]" started-at="2024-01-05T21:27:03 EST" name="afterEachTest" finished-at="2024-01-05T21:27:03 EST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void pagesTest.VaccinationTest.useOfVaccination()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=useOfVaccination status=SUCCESS method=VaccinationTest.useOfVaccination()[pri:0, instance:pagesTest.VaccinationTest@34e9fd99] output=Proxy element for: DefaultElementLocator 'By.xpath: //li[@id='at-hp-rp-covid-li-1']/a/div'<---------> has been clicked<br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="publishReport()[pri:0, instance:pagesTest.VaccinationTest@34e9fd99]" started-at="2024-01-05T21:27:03 EST" name="publishReport" finished-at="2024-01-05T21:27:03 EST" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- publishReport -->
+      </class> <!-- pagesTest.VaccinationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

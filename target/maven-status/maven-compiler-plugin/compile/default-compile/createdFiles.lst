@@ -1,0 +1,16 @@
+pages\HomePage.class
+pages\NewUserRegistration.class
+reports\Loggers.class
+common\CommonWaits.class
+reports\ExtentTestManager.class
+constants\Attribute.class
+pages\Vaccinations.class
+constants\Profile.class
+common\CommonActions.class
+reports\ExtentManager.class
+utils\Configuration$1.class
+baseUtil\BaseClass.class
+utils\IConstant.class
+utils\Configuration.class
+pages\ForgotUserId.class
+utils\Constant.class
